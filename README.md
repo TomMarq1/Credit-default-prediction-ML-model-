@@ -7,9 +7,9 @@ The goal of this project is not to create a model with the best possible accurac
 conducting an error analysis as a basis of further improvements. 
 
 ## Used python libraries
-pandas
-numpy
-sklearn
-imblearn
-matplotlib
+pandas <br>
+numpy <br>
+sklearn <br>
+imblearn <br>
+matplotlib <br>
 
